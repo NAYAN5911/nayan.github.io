@@ -81,7 +81,7 @@ section .b1{
       text-transform: uppercase;
     }
     20% {
-      content: "my world";
+      content: "white world";
       text-transform:capitalize;
     }
     35% {
@@ -91,7 +91,7 @@ section .b1{
       content: "dark world";
     }
     80% {
-      content: "my world";
+      content: "white world";
     }
     100% {
       content: "dark world";
